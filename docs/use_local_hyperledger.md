@@ -48,6 +48,11 @@ Run the script below to get everything going.
     sudo ./startFabric.sh
 ```
 
+
+```bash
+   docker ps
+```
+
 After a minute or two the command prompt will return.
 Now run the command `docker ps` to view your currently running docker containers. You should see something _similar_ to the following:
 
